@@ -1,0 +1,3 @@
+
+myController(greetingService) -> greetingServiceConfig ->
+greetingServiceFactory -> invoke one of greetingService by Profile("")
